@@ -1,0 +1,36 @@
+[
+  {
+    "id": "RT1",
+    "name": "VIEW ACCOUNT"
+  },
+  {
+    "id": "RT2",
+    "name": "CREATE ACCOUNT"
+  },
+  {
+    "id": "RT3",
+    "name": "MODIFY ACCOUNT"
+  },
+  
+  {
+    "id": "RT4",
+    "name": "DELETE ACCOUNT"
+  }
+   {
+    "id": "RT5",
+    "name": "VIEW TRANSACTION"
+  },
+  {
+    "id": "RT6",
+    "name": "MODIFY TRANSACTION"
+  },
+  {
+    "id": "RT7",
+    "name": "DELETE TRANSACTION"
+  },
+  
+  {
+    "id": "RT8",
+    "name": "CREATE TRANSACTION"
+  }
+]

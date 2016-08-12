@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+@media (min-width: 768px) {
+    .sidebar-nav .navbar .navbar-collapse {
+        padding: 0;
+        max-height: none;
+    }
+
+    .sidebar-nav .navbar ul {
+        float: none;
+    }
+
+    .sidebar-nav .navbar ul:not {
+        display: block;
+    }
+
+    .sidebar-nav .navbar li {
+        float: none;
+        display: block;
+    }
+
+    .sidebar-nav .navbar li a {
+        font-size: 16px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+}
